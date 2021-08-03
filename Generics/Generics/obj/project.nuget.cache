@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VdawAOz0QJ7EAndKFDN7R7OxbNJsCf0jC8nSqWMDkkGXulT/0vW0Cg7DmJIk6M68JfLNp6eLy2N0uJ7dm9eow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolev\\source\\repos\\Generics\\Generics\\Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kolev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
